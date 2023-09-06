@@ -1,0 +1,51 @@
+span {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+span {
+    font-size: x-large;
+    font-weight: 800
+}
+
+p {
+    margin: 30px
+}
+
+h1 {
+    line-height: 0.8;
+    margin: 25px
+}
+
+h2 {
+    line-height: 0.8;
+    margin: 40px
+}
+
+h3 {
+    line-height: 0.8;
+    margin: 40px
+}
+
+ul {
+    margin: 15px;
+}
+
+img {
+    margin: 40px
+}
+
+body {
+    background-image: url(https://sun9-37.userapi.com/impg/boU_uGQj1iGwuvSpoW66oXHi64-S5waighATcw/BPqgAjdMvy8.jpg?size=2560x1440&quality=96&sign=c24dfa04d9e86959754d132fa3949850&type=album)
+}
+
+q {
+    margin: 550px
+}
+
+li {
+    color: black;
+}
+
+a {
+    color: rgb(118, 0, 181);
+}
