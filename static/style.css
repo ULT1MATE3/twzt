@@ -26,7 +26,7 @@ h3 {
 }
 
 ul {
-    margin: 15px
+    margin: 15px;
 }
 
 img {
@@ -39,4 +39,9 @@ body {
 q {
     margin: 550px
 }
-
+li {
+    color: black;
+}
+a {
+    color: rgb(118, 0, 181);
+}
